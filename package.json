@@ -1,0 +1,10 @@
+{
+  "name": "memorycardv2",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "sameetmoosavi",
+  "license": "MIT"
+}
